@@ -1,0 +1,2 @@
+# GhostKiller
+SFML typing game
